@@ -15,3 +15,4 @@ for i in range(0, numToRoll):
             min = val
     sum -= min
     print(sum)
+input("Press enter to exit\n")
