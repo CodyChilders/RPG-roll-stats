@@ -20,8 +20,6 @@ def getInt(prompt):
 
 def main():
     #get input
-    #numToRoll = int(input("How many stats do you want to roll? "))
-    #playersToRoll = int(input("How many players do you want to roll for? "))
     numToRoll = getInt("How many stats do you want to roll? ")
     playersToRoll = getInt("How many players do you want to roll for? ")
     #run calculations
